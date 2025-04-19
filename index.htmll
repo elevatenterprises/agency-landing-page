@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Elevate Enterprises - Creative Digital Agency</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Elevate Enterprises</h1>
+      <p>Innovative digital solutions that elevate your brand to the next level.</p>
+      <a href="#services" class="btn">Explore Services</a>
+    </div>
+  </header>
+
+  <section id="services" class="container">
+    <h2>Our Services</h2>
+    <div class="cards">
+      <div class="card">🌐 Website Design & Development</div>
+      <div class="card">🤖 AI Agents & Automation</div>
+      <div class="card">📱 Social Media Marketing</div>
+      <div class="card">🎨 Branding & Visual Identity</div>
+      <div class="card">✉️ Email Outreach & Funnels</div>
+      <div class="card">📊 Digital Strategy Consulting</div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Elevate Enterprises. All rights reserved.</p>
+  </footer>
+</body>
+</html>
